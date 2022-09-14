@@ -23,7 +23,7 @@
 <title>사방팔방 四方八方 | 분양정보</title>
 </head>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="crossorigin="anonymous"></script>
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyDNp-zYCyvcbrN7Y3_hMRhjShp0p7bqLvY&region=kr"></script>
+<script src="http://maps.google.com/maps/api/js?key=키 값"></script>
 
 <body bgcolor="#202322">
 <h1 style="color:white">분양 정보</h1>

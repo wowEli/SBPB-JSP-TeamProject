@@ -23,8 +23,8 @@ public class EmailDAO {
 //      String to = "보낼 이메일 주소"; // 보낼 이메일 주소
       
       String host = "smtp.naver.com"; // 사용할 사이트
-      final String user = "dongook1126@naver.com"; // ID 사방팔방이 보냄
-      final String password = "tkqkdvkfqkd4080"; // PW
+      final String user = "네이버 id"; // ID 사방팔방이 보냄
+      final String password = "네이버 비밀번호"; // PW
       
       String to = vo.getEmailAddress(); // 보낼 이메일 주소
 

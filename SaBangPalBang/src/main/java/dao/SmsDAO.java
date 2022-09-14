@@ -12,8 +12,8 @@ import vo.SmsVO;
 public class SmsDAO {
 
 	public int sms(SmsVO vo) {
-		String api_key = "NCSXKWT2SWGIHXTE"; // 회원가입 시 발급받은 api키
-		String api_secret = "C349T2HVW7WU6LZ5FXC1RZEHRHQQEOF8"; // 회원가입 시 발급받은 secret api키
+		String api_key = "api 키 값"; // 회원가입 시 발급받은 api키
+		String api_secret = "시크릿 키 값"; // 회원가입 시 발급받은 secret api키
 		Message coolsms = new Message(api_key, api_secret);
 
 		Random rd = new Random();
